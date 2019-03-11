@@ -25,8 +25,7 @@ namespace RecursiveExample
              * my number is 1... 1-1 = 0 ---> step: 7
              * my output is 7
             **/
-            //011100 bunun cevabı 7
-
+            
             int number = Convert.ToInt32("011100", 2);
             int stepCount = 0;
 
